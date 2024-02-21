@@ -1,0 +1,31 @@
+BIBLIOGRAFIA BASICA
+
+[1] C. R. Paul, Introduction to Electromagnetic Compatibility, 2nd Ed., Wiley, 2006.
+
+[2] Henry W. Ott, Electromagnetic Compatibility Engineering. J. Wiley, 2009
+
+[3] F.M.Tesche, M.V.Ianoz & T.Karlsson, EMC Analysis Methods and Computational Models, Wiley, 1997.
+
+[4] V. Trainotti y W.G.Fano. Ingeniería Electromagnética Vol I, II  y III. Editorial Nueva Libreria, Bs.As.2004, 2006, 2009.
+
+[5] Clayton Paul. Transmission Lines in Digital and Analog Electronic Systems_ Signal Integrity and Crosstalk. Wiley. 2010.
+
+BIBLIOGRAFIA COMPLEMENTARIA
+
+C. Balanis. Antennas Theory. Wiley. 1997
+
+W.G. Fano. Standard Electric and Magnetic Field for Calibration, Intechopen, Feb.2018, DOI: 10.5772/intechopen.72687
+
+W. G. Fano, Alonso R. y Quintana G. El campo magnetico generado por las bobinas de Helmholtz y su aplicacion a la calibracion de sondas. Revista Elektron, Vol. 1, No. 2, pp. 91-96 (2017)
+
+W.G. Fano, R. Alonso and L. M. Carducci. Near Field Magnetic Probe Applied to Switching Power Supply. 2016 IEEE Global Electromagnetic Compatibility Conference (GEMCCON). Nov. 2016,   DOI: 10.1109/GEMCCON.2016.7797317.
+
+G. I. Quintana, R. Alonso and W. G. Fano. Loop Antenna Characterization for ELF and SLF Measurements Revista elektron, Vol. 2, No. 2, pp. 95-100 (2018).
+
+K. Armstrong, Design Techniques for EMC, Advanced PCB Design and Layout for EMC,
+
+EMC for Systems and Installations, EMC Testing http://www.emcia.org/keitharmstrong.aspx
+
+EOS/ESD Association, ESD Fundamentals (Basics of Electrostatic Discharge), https://www.esda.org/about-esd/esd-fundamentals/
+
+EOS/ESD Association, Understanding Electrical Overstress – EOS, https://www.esda.org/about-esd/white-papers/
